@@ -9,7 +9,7 @@
 
   - 📚 Programming Student at C.E.T N°30 .
 
-  - 🌱  I keep learning new things **Html**, **Php**, **TypeScript**, **Css3**, **SQL**, **Postman**, **NodeJs** and **JavaScript**.
+  - 🌱  I keep learning new things.
 
   - 👯 I’m looking forward to collaborate on open source projects.
 
@@ -23,6 +23,9 @@
   ## 📚 &nbsp;Currently studying
 
   - Figma
+  - PHP
+  - Postman
+  - NodeJS
 
 </div>
 
@@ -31,17 +34,18 @@
 
 ### 🛠 &nbsp; Tech Stack
 
-|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40"> | <img src="https://github.com/user-attachments/assets/45aad903-2220-4596-8a55-f75c7d393af2" width="40"> | <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40"> |
-|:-:|:-:|:-:|:-:|:-:|
-| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> |
+|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40"> |
+|:-:|:-:|:-:|
+| <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"> | <img src="https://github.com/user-attachments/assets/45aad903-2220-4596-8a55-f75c7d393af2" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> |
 
+<!-- <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"> | <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"> |
+-->
 <hr>
 </div>
 
 <div>
-
-  ## ⚙️ GitHub Stats ⚙️
   
+  ## ⚙️ GitHub Stats ⚙️
   <a href="https://github.com/jjoacoc">
     <img width=450 height=170 align="center" alt="jjoacoc" src="https://github-readme-stats.vercel.app/api?username=jjoacoc&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>

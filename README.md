@@ -3,11 +3,9 @@
 
 <div>
 
-  ##  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> &nbsp;About Me
+  ##  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> &nbsp;**About Me**
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-  <br>
-
-  - 📚 Programming Student at C.E.T N°30 .
+    I am a programming student at C.E.T N°30, in the last year. I am expanding my knowledge in both front-end and back-end development, and I work as an intern at the Cipolletti municipality. I love learning and building something new, productive, innovative and creative.
 
   - 🌱  I keep learning new things.
 
@@ -20,7 +18,7 @@
 
 <div>
 
-  ## 📚 &nbsp;Currently studying
+  ## 📚 &nbsp;**Currently studying**
 
   - Figma
   - PHP
@@ -32,7 +30,7 @@
 <div>
 <hr>
 
-### 🛠 &nbsp; Tech Stack
+### 🛠 &nbsp; **Tech Stack**
 
 |<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> | <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="40"> |
 |:-:|:-:|:-:|
@@ -45,7 +43,7 @@
 
 <div>
   
-  ## ⚙️ GitHub Stats ⚙️
+  ## ⚙️ **GitHub Stats** ⚙️
   <a href="https://github.com/jjoacoc">
     <img width=450 height=170 align="center" alt="jjoacoc" src="https://github-readme-stats.vercel.app/api?username=jjoacoc&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
@@ -56,7 +54,7 @@
 
 <div>
 
-  ## 📫 &nbsp;My Contacts
+  ## 📫 &nbsp;**My Contacts**
 
   [![LinkedIn Badge](https://img.shields.io/badge/-Joaquin_Cofre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquin-cofre-16379b319/)](https://www.linkedin.com/in/joaquin-cofre-16379b319/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-jjoaco.cofre@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jjoaco.cofre@gmail.com)&nbsp;

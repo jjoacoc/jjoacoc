@@ -7,14 +7,13 @@
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
   <br>
 
-  - 📚 Information System student at UFPI.
-  <!-- - 🔭 I'm currently working on <a href="#">MyJob</a> -->
+  - 📚 Programming Student at C.E.T N°30 .
 
-  - 🌱  I’m always studying **JavaScript**, **TypeScript**, **ReactJS**, **NodeJS**, **Dart**, **Flutter** and **Python**.
+  - 🌱  I keep learning new things **Html**, **Php**, **TypeScript**, **Css3**, **SQL**, **Postman**, **NodeJs** and **JavaScript**.
 
-  - 💬 Ask me about **any technology**.
+  - 👯 I’m looking forward to collaborate on open source projects.
 
-  - ⚡ Fun fact: I'm a <a href="https://en.wikipedia.org/wiki/Potato">potato</a>
+  - 💬 Ask me about, I am happy to help.
 
   <br>
 </div>

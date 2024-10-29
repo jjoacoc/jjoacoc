@@ -24,9 +24,6 @@
   ## 📚 &nbsp;Currently studying
 
   - Figma
-  - Microservices architecture
-  - Clean architecture
-  - TDD
 
 </div>
 
@@ -44,7 +41,7 @@
 
 <div>
 
-  ## 📊 &nbsp;My activities
+  ## ⚙️ GitHub Stats ⚙️
   
   <a href="https://github.com/jjoacoc">
     <img width=450 height=170 align="center" alt="jjoacoc" src="https://github-readme-stats.vercel.app/api?username=jjoacoc&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
@@ -61,6 +58,6 @@
   [![LinkedIn Badge](https://img.shields.io/badge/-Joaquin_Cofre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquin-cofre-16379b319/)](https://www.linkedin.com/in/joaquin-cofre-16379b319/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-jjoaco.cofre@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jjoaco.cofre@gmail.com)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-joaco_cofre-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/joaco_cofre/)&nbsp;
-  [![Twitter Badge](https://img.shields.io/badge/-joaco_cofre-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/joaco_cofre)&nbsp;
+  [![Twitter Badge](https://img.shields.io/badge/-joaco_cofre-blue?style=flat-square&logo=X&logoColor=white)](https://X.com/joaco_cofre)&nbsp;
 
 </div>

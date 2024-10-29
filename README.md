@@ -46,11 +46,11 @@
 
   ## 📊 &nbsp;My activities
   
-  <a href="https://github.com/Pepyn0">
-    <img width=450 height=170 align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/jjoacoc">
+    <img width=450 height=170 align="center" alt="jjoacoc" src="https://github-readme-stats.vercel.app/api?username=jjoacoc&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
-  <a href="https://github.com/Pepyn0">
-    <img align="center" alt="Pepyn0" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
+  <a href="https://github.com/jjoacoc">
+    <img align="center" alt="jjoacoc" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjoacoc&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true&count_private=true" />
   </a>
 </div>
 
@@ -58,7 +58,6 @@
 
   ## 📫 &nbsp;My Contacts
 
-  <!-- [![Portfolio Badge](https://img.shields.io/badge/-Portifolio-blueviolet?style=flat-square&logo=Portfolio&logoColor=white)](https://pepyn0.github.io/)&nbsp; -->
   [![LinkedIn Badge](https://img.shields.io/badge/-Joaquin_Cofre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquin-cofre-16379b319/)](https://www.linkedin.com/in/joaquin-cofre-16379b319/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-jjoaco.cofre@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jjoaco.cofre@gmail.com)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-joaco_cofre-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/joaco_cofre/)&nbsp;

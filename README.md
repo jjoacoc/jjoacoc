@@ -5,7 +5,11 @@
 
   ##  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> &nbsp;**About Me**
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-    I am a programming student at C.E.T N°30, in the last year. I am expanding my knowledge in both front-end and back-end development, and I work as an intern at the Cipolletti municipality. I love learning and building something new, productive, innovative and creative.
+    I am a programmer and a graduate of C.E.T N°30 with a technical degree in Programming. During my internship at the municipality, I developed various skills, particularly in adaptability and teamwork, although the latter was initially a challenge. Over time, I was able to improve and adjust to new work dynamics.
+
+Throughout my six years of high school, I was introduced to multiple programming languages. While I did not study them in depth, I gained a solid foundation that allowed me to experiment on my own and continue learning autonomously. Regarding PHP, during my internship, I faced the challenge of learning it within a short timeframe. With the support of my instructors and my determination to overcome challenges, I was able to acquire a basic but well-structured understanding, which allowed me to apply it effectively.
+
+I am passionate about learning new technologies, experimenting in this field, and taking on new challenges that help me grow as a developer. I am always seeking opportunities to improve my skills and contribute with creative and innovative solutions.
 
   - 🌱  I keep learning new things.
 

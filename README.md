@@ -23,9 +23,7 @@ I am passionate about learning new technologies, experimenting in this field, an
 <div>
 
   ## 📚 &nbsp;**Currently studying**
-
-  - Figma
-  - PHP
+  
   - Postman
   - NodeJS
 

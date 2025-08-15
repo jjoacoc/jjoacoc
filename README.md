@@ -61,6 +61,5 @@ I am passionate about learning new technologies, experimenting in this field, an
   [![LinkedIn Badge](https://img.shields.io/badge/-Joaquin_Cofre-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaquin-cofre-16379b319/)](https://www.linkedin.com/in/joaquin-cofre-16379b319/)&nbsp;
   [![Gmail Badge](https://img.shields.io/badge/-jjoaco.cofre@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:jjoaco.cofre@gmail.com)&nbsp;
   [![Instagram Badge](https://img.shields.io/badge/-joaco_cofre-EB2A08?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/joaco_cofre/)&nbsp;
-  [![Twitter Badge](https://img.shields.io/badge/-joaco_cofre-blue?style=flat-square&logo=X&logoColor=white)](https://X.com/joaco_cofre)&nbsp;
 
 </div>
